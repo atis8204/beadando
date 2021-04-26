@@ -1,0 +1,128 @@
+header {
+    background-color: white;
+
+}
+
+header img {
+    with: 355px;
+    height:155px;
+    margin: 20px 10px 0px 10px;
+    float:left;
+}
+
+header nav ul {
+    list-style-type: none;
+  padding: 85px 160px 50px 0px;
+    float: right;
+    
+}
+
+header nav ul li {
+    display: inline;
+    padding: 10px; 
+}
+
+
+header nav ul a {
+    color: #333;
+    display: inline-block;
+    text-transform: uppercase;
+    text-decoration: none;
+    white-space: nowrap;
+    letter-spacing: .17em;
+    text-decoration: none;
+    
+}
+
+
+
+footer {
+    width: auto;
+    height: 245px;
+    background-color: #f28500;
+}
+
+footer img {
+    with: 100px;
+    height:136px;
+    float: left;
+    margin: 30px 0px 0px 150px;
+
+}
+footer nav {
+    margin: 0 auto;
+
+}
+
+
+footer nav ul {
+    list-style-type: none;
+    text-align: left;
+    float:left;
+    margin: 150px 0px 0px 60px;
+
+    
+}
+
+footer nav ul li {
+    display: inline;
+    padding: 10px; 
+}
+
+
+footer nav ul a {
+    color: #fff9fb;
+    display: inline-block;
+    text-decoration: none;
+    white-space: nowrap;
+    letter-spacing: .17em;
+   
+  
+}
+
+.lablec2 {
+ color: #fff9fb;
+ font-size: 7pt;
+ white-space: nowrap;
+ float:right;
+    padding: 150px 120px 40px 20px;
+}
+
+div#content {
+
+    width: 100%;
+    padding: 180px 0px 0px 0px;
+}
+
+div#keret img {
+    width: 100%;
+    z-index: 0;
+}
+
+h2.rolunk {
+    padding:30px 30px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 300;
+}
+.block {
+    margin: 0 auto;
+    height: 400px;
+    color: white;
+    background: #88ceeb;
+}
+.block p {
+    color: white;
+    text-align: center;
+    padding: 20px 100px;
+    font-size: 22px;
+    line-height: 150%;
+}
+
+.second-block {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('images/bg.png');
+}
+
